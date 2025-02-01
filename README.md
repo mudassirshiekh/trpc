@@ -51,6 +51,7 @@
 tRPC allows you to easily build & consume fully typesafe APIs without schemas or code generation.
 
 ### Features
+### By Mudassir Alam
 
 - ✅&nbsp; Well-tested and production ready.
 - 🧙‍♂️&nbsp; Full static typesafety & autocompletion on the client, for inputs, outputs, and errors.
